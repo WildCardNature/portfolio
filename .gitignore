@@ -22,3 +22,7 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+# Local agent instructions (kept out of repo)
+AGENTS.md
+plans.md
+plans-dos.md
